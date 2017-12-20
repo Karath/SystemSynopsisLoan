@@ -1,0 +1,4 @@
+E:\SystemSynop\repos\SystemSynopsisLoan\Broker\bin\Debug\netcoreapp2.0\Messages.dll
+E:\SystemSynop\repos\SystemSynopsisLoan\Broker\obj\Debug\netcoreapp2.0\Broker.csproj.CoreCompileInputs.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Broker\obj\Debug\netcoreapp2.0\Broker.AssemblyInfoInputs.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Broker\obj\Debug\netcoreapp2.0\Broker.AssemblyInfo.cs

@@ -1,0 +1,8 @@
+E:\SystemSynop\repos\SystemSynopsisLoan\Bank\bin\Debug\netcoreapp2.0\Bank.deps.json
+E:\SystemSynop\repos\SystemSynopsisLoan\Bank\bin\Debug\netcoreapp2.0\Bank.runtimeconfig.json
+E:\SystemSynop\repos\SystemSynopsisLoan\Bank\bin\Debug\netcoreapp2.0\Bank.runtimeconfig.dev.json
+E:\SystemSynop\repos\SystemSynopsisLoan\Bank\bin\Debug\netcoreapp2.0\Bank.dll
+E:\SystemSynop\repos\SystemSynopsisLoan\Bank\obj\Debug\netcoreapp2.0\Bank.csprojResolveAssemblyReference.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Bank\obj\Debug\netcoreapp2.0\Bank.csproj.CoreCompileInputs.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Bank\obj\Debug\netcoreapp2.0\Bank.AssemblyInfoInputs.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Bank\obj\Debug\netcoreapp2.0\Bank.AssemblyInfo.cs

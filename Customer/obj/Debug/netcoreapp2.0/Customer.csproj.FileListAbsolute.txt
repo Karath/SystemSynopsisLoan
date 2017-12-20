@@ -1,0 +1,8 @@
+E:\SystemSynop\repos\SystemSynopsisLoan\Customer\bin\Debug\netcoreapp2.0\Customer.deps.json
+E:\SystemSynop\repos\SystemSynopsisLoan\Customer\bin\Debug\netcoreapp2.0\Customer.runtimeconfig.json
+E:\SystemSynop\repos\SystemSynopsisLoan\Customer\bin\Debug\netcoreapp2.0\Customer.runtimeconfig.dev.json
+E:\SystemSynop\repos\SystemSynopsisLoan\Customer\bin\Debug\netcoreapp2.0\Customer.dll
+E:\SystemSynop\repos\SystemSynopsisLoan\Customer\obj\Debug\netcoreapp2.0\Customer.csprojResolveAssemblyReference.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Customer\obj\Debug\netcoreapp2.0\Customer.csproj.CoreCompileInputs.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Customer\obj\Debug\netcoreapp2.0\Customer.AssemblyInfoInputs.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Customer\obj\Debug\netcoreapp2.0\Customer.AssemblyInfo.cs

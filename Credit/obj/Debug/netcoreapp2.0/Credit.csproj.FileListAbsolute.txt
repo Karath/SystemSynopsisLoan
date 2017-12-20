@@ -1,0 +1,7 @@
+E:\SystemSynop\repos\SystemSynopsisLoan\Credit\bin\Debug\netcoreapp2.0\Credit.deps.json
+E:\SystemSynop\repos\SystemSynopsisLoan\Credit\bin\Debug\netcoreapp2.0\Credit.runtimeconfig.json
+E:\SystemSynop\repos\SystemSynopsisLoan\Credit\bin\Debug\netcoreapp2.0\Credit.runtimeconfig.dev.json
+E:\SystemSynop\repos\SystemSynopsisLoan\Credit\bin\Debug\netcoreapp2.0\Credit.dll
+E:\SystemSynop\repos\SystemSynopsisLoan\Credit\obj\Debug\netcoreapp2.0\Credit.csproj.CoreCompileInputs.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Credit\obj\Debug\netcoreapp2.0\Credit.AssemblyInfoInputs.cache
+E:\SystemSynop\repos\SystemSynopsisLoan\Credit\obj\Debug\netcoreapp2.0\Credit.AssemblyInfo.cs
